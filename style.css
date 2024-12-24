@@ -1,0 +1,12 @@
+body{
+    background: #0c0c0c;
+}
+img{
+    width: 100%;
+    max-width: 300px;
+    object-fit: cover;
+    margin-bottom: 0.3rem;
+}
+.list{
+    columns: 100px;
+}
